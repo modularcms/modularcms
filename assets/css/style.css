@@ -1,0 +1,20 @@
+header {
+  background-color: var(--color-primary);
+  display: flex;
+}
+
+#logo {
+  height: 50px;
+}
+
+nav {
+
+}
+
+main {
+
+}
+
+footer {
+  background-color: #ddd;
+}
