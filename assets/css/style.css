@@ -33,6 +33,6 @@ footer {
   background-color: #ddd;
 }
 
-a:link, a:hover, a:active {
+a:link, a:hover, a:active, a:visited {
   color: var(--color-primary);
 }
