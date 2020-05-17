@@ -1,6 +1,11 @@
+html, body {
+  margin: 0;
+}
+
 header {
   background-color: var(--color-primary);
   display: flex;
+  position: sticky;
 }
 
 #logo {
